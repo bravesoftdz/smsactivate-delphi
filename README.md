@@ -8,6 +8,9 @@ sms.getBalance - запрос баланса
 sms.getNumbersStatus(SERVICE) - запрос количества доступных номеров
 
 sms.getNumber(SERVICE) - заказ номера
+
 sms.setStatus(STATUS, sms.Id) - изменение статуса активации
+
 sms.getStatus(sms.Id) - получить состояние активации
+
 полученый код хранится в sms.Code
