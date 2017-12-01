@@ -1,5 +1,5 @@
 # smsactivate-delphi
-library for working with the site sms-activate.ru delphi
+библиотека для работы с сайтом sms-activate.ru на delphi
 
 sms := TSMSActivate.Create(KEY)
 
