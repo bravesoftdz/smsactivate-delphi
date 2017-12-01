@@ -3,7 +3,7 @@ program Project1;
 uses
   Vcl.Forms,
   Unit1 in 'Unit1.pas' {Form1},
-  SmSActivate in '..\..\Мои классы для Делфи\SmSActivate.pas';
+  SmSActivate in 'SmSActivate.pas';
 
 {$R *.res}
 
